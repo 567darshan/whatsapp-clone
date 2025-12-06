@@ -1,10 +1,6 @@
-Got it 🔥
-Here is a **clean, professional, industry-level README.md** ONLY — no viva, no extra theory.
-Just **project details, installation, features, architecture, screenshots, APIs, and tech stack.**
 
-You can copy–paste this directly into your **README.md** on GitHub.
 
----
+
 
 # 📱 **WhatsApp Clone – Real-Time Chat Application**
 

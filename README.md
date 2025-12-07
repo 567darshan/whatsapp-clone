@@ -263,10 +263,6 @@ Feel free to fork, modify, or improve the project. PRs are welcome.
 
 ---
 
-## 📜 License
 
-This project is licensed under **MIT License**.
-
----
 
 
